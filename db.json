@@ -1,0 +1,27 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Homem de Ferro 2",
+      "resumo": "Filme do Homem de Ferro",
+      "atores": "Robert Downey",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+      "duracao": 140
+    },
+    {
+      "id": 2,
+      "titulo": "Super man",
+      "resumo": "Super man",
+      "atores": "Robert Downey",
+      "capa": "https://s2.glbimg.com/yd1dQk9acMPKUmpTBghftL--NHk=/s.glbimg.com/jo/g1/f/original/2013/07/10/00-cavil.jpg",
+      "duracao": 140
+    }
+  ],
+  "atores": [
+    {
+      "id": 1,
+      "nome": "Robert Downey",
+      "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"
+    }
+  ]
+}
